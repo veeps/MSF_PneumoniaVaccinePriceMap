@@ -6,7 +6,7 @@ library(rworldmap)
 sum(is.na(price$Price))
 
 #read in data
-price <- read.table("Data/VaccinePrices_051315.csv", sep=",", header = TRUE, stringsAsFactors = FALSE, na.strings=c("NA", "NULL"))
+price <- read.table("Data/VaccinePrices_051515.csv", sep=",", header = TRUE, stringsAsFactors = FALSE, na.strings=c("NA", "NULL"))
 class(price$Price)
 
 #overview map

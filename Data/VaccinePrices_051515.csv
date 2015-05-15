@@ -1,13 +1,13 @@
 Code,Country,PercentDeaths,Grouping,EPI,Price,PCV
 AFG,Afghanistan ,28.1,Gavi,Yes,3.3,13
-ALB,Albania ,16.3,Gavi,No,NA,
+ALB,Albania ,16.3,In EPI Schedule,Yes,NA,
 DZA,Algeria,25.2,Not in EPI Schedule,No,NA,
 AND,Andorra,5.3,In EPI Schedule,Yes,NA,
 AGO,Angola ,20.6,Gavi Graduating,Yes,3.3,13
 ATG,Antigua and Barbuda,8.7,PAHO RF,No,14.12,
 ARG,Argentina,17.1,Self Procures PCV,Yes,NA,
 ARM,Armenia ,18,Gavi Graduating,Yes,3.4,10
-AUS,Australia,5.4,In EPI Schedule,Yes,37.4,
+AUS,Australia,5.4,In EPI Schedule,Yes,NA,
 AUT,Austria,5.8,In EPI Schedule,Yes,NA,
 AZE,Azerbaijan ,26.6,Gavi Graduating,Yes,3.4,10
 BHS,Bahamas,45.6,PAHO RF,Yes,14.12,
@@ -20,7 +20,7 @@ BLZ,Belize,2.4,PAHO RF,No,14.12,
 BEN,Benin ,19.1,Gavi,Yes,3.3,13
 BTN,Bhutan ,28.6,Gavi Graduating,No,NA,
 BOL,Bolivia ,26.9,Gavi Graduating,Yes,3.3,13
-BIH,Bosnia and Herzegovina ,10.2,Gavi,No,NA,
+BIH,Bosnia and Herzegovina ,10.2,Not in EPI Schedule,No,NA,
 BWA,Botswana,22.9,In EPI Schedule,Yes,NA,
 BRA,Brazil,15.9,Self Procures PCV,Yes,6.97,10
 NA,Brunei,8.5,Not in EPI Schedule,No,NA,
@@ -34,7 +34,7 @@ NA,Cape Verde,26.8,Not in EPI Schedule,No,NA,
 CAF,CAR ,17.8,Gavi,Yes,3.3,13
 TCD,Chad ,20.8,Gavi,No,NA,
 CHL,Chile,12.6,Self Procures PCV,Yes,14.04,
-CHN,China ,24.4,Gavi,No,NA,
+CHN,China ,24.4,Not in EPI Schedule,No,NA,
 COL,Colombia,17.3,PAHO RF,Yes,14.12,
 COM,Comoros ,21.6,Gavi,No,NA,
 COG,Congo ,15.9,Gavi Graduating,Yes,3.3,13
@@ -44,7 +44,7 @@ HRV,Croatia,2,Not in EPI Schedule,No,NA,
 CUB,Cuba ,12.3,Gavi Graduating,No,NA,"Self Procure, not in PAHO RF"
 CYP,Cyprus,5.2,In EPI Schedule,Yes,NA,
 CZE,Czech Republic,9.6,In EPI Schedule,Yes,NA,
-COD,Denmark,3.4,In EPI Schedule,Yes,42.43,
+COD,Denmark,3.4,In EPI Schedule,Yes,NA,
 DNK,Djibouti ,23.9,Gavi,Yes,3.3,13
 DJI,Domcratic Republic of the Congo,19.9,Gavi,Yes,3.3,13
 DMA,Dominica,22.2,PAHO RF,No,14.12,
@@ -82,7 +82,7 @@ IRL,Ireland,2.7,In EPI Schedule,Yes,NA,
 ISR,Israel,2.9,In EPI Schedule,Yes,NA,
 ITA,Italy,2.1,In EPI Schedule,Yes,NA,
 JAM,Jamaica,15.6,PAHO RF,Yes,14.12,
-JPN,Japan,8.7,In EPI Schedule,Yes,60.5,
+JPN,Japan,8.7,In EPI Schedule,Yes,NA,
 JOR,Jordan,19.2,In EPI Schedule,Yes,NA,
 KAZ,Kazakhstan,25.4,In EPI Schedule,Yes,NA,
 KEN,Kenya ,24.6,Gavi,Yes,3.4,10
@@ -119,7 +119,7 @@ MMR,Myanmar ,26.9,Gavi,No,NA,Introduction in 2015?
 NAM,Namibia,22.8,In EPI Schedule,Yes,NA,
 NA,Nauru,26,Not in EPI Schedule,No,NA,
 NPL,Nepal ,29.7,Gavi,Yes,3.4,10
-NLD,Netherlands,5.1,In EPI Schedule,Yes,26.7,
+NLD,Netherlands,5.1,In EPI Schedule,Yes,NA,
 NZL,New Zealand,6.1,In EPI Schedule,Yes,NA,
 NIC,Nicaragua ,23.9,Gavi Graduating,Yes,3.3,13
 NER,Niger ,22,Gavi,Yes,3.3,13
@@ -150,7 +150,7 @@ SYC,Seychelles,10,Not in EPI Schedule,No,NA,
 SLE,Sierra Leone ,19.6,Gavi,Yes,3.3,13
 SGP,Singapore,10.3,In EPI Schedule,Yes,NA,
 NA,Slovakia,15.9,In EPI Schedule,Yes,NA,
-SVN,Slovenia,3.5,In EPI Schedule,Yes,71.92,
+SVN,Slovenia,3.5,In EPI Schedule,Yes,NA,
 NA,Soloman Islands ,29,Gavi Graduating,Yes,3.3,13
 SOM,Somalia ,23.8,Gavi,No,NA,
 ZAF,South Africa,20.8,Other Price Point,Yes,16.17,10
@@ -176,7 +176,7 @@ TON,Tonga,12.7,Not in EPI Schedule,No,NA,
 TTO,Trinidad and Tobago,8.6,PAHO RF,Yes,14.12,
 TUN,Tunisia,15.3,Not in EPI Schedule,No,NA,
 TUR,Turkey,18.4,In EPI Schedule,Yes,NA,
-TKM,Turkmenistan ,25.9,Gavi,No,NA,
+TKM,Turkmenistan ,25.9,Not in EPI Schedule,No,NA,
 TUV,Tuvalu,24.3,Not in EPI Schedule,No,NA,
 UGA,Uganda ,20.6,Gavi,Yes,3.4,10
 UKR,Ukraine ,14.8,Gavi Graduating,No,NA,
